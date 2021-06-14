@@ -4,6 +4,13 @@
 /* Function that returns the integer part of the difference of two float*/
 
 int main() {
+		int helloCpl()
+	{
+		printf("Hello World !\n");
+	}
+	
+	helloCpl();
+	
 	
 	int intsubtraction(a,b)
 	float a,b;
@@ -24,6 +31,6 @@ int main() {
 	printf("%d",result);
 
 	
-	
+
 	return 0;
 }
