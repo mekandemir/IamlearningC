@@ -30,7 +30,7 @@ int main() {
 	printf("Enter an integer: : ");
 	scanf("%d",&z);
 	
-	result=islem(x,y,z);
+	result=operation(x,y,z);
 	printf("Result : ",result);
 
 	
